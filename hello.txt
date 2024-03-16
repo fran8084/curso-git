@@ -1,1 +1,5 @@
-hola aquie estamos COMPARTIR
+#GOKU-BUU
+hola puedes COMPARTIR
+
+##descripcion
+esto es un repo solo creado para el curso de GIT
